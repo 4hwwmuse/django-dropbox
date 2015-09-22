@@ -27,6 +27,7 @@ additionally you must need to set the next settings:
     DROPBOX_CONSUMER_SECRET = 'xxx'
     DROPBOX_ACCESS_TOKEN = 'xxx'
     DROPBOX_ACCESS_TOKEN_SECRET = 'xxx'
+    ACCESS_TYPE = 'app_folder'
 
 if you don't have `DROPBOX_CONSUMER_KEY` or `DROPBOX_CONSUMER_SECRET` 
 you will need to create an Dropbox app at [Dropbox for Developers](https://www.dropbox.com/developers)
